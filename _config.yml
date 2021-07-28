@@ -86,7 +86,7 @@ author:
   location         : "Iowa City, IA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=rz_fPikAAAAJ"
   email            : "jhkmath@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/DataScientist.HankyuJang"
+  facebook         : "DataScientist.HankyuJang"
   foursquare       :
   github           : "HankyuJang"
   google_plus      :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/hankyujang/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "hankyujang"
+  orcid            : "https://orcid.org/0000-0002-3056-4347"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
