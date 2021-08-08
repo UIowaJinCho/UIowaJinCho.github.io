@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 modeling and non-pharmaceutical interventions in an outpatient dialysis unit"
+title: "[Journal] COVID-19 modeling and non-pharmaceutical interventions in an outpatient dialysis unit"
 collection: publications
 permalink: /publication/2021-07-08-COVID-19-modeling-and-non-pharmaceutical-interventions-in-an-outpatient-dialysis-unit
 date: 2021-07-08

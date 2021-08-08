@@ -1,5 +1,5 @@
 ---
-title: "Multi-Relational Link Prediction for an Online Health Community"
+title: "[Workshop] Multi-Relational Link Prediction for an Online Health Community"
 collection: publications
 permalink: /publication/2019-10-19-Multi-Relational-Link-Prediction-for-an-Online-Health-Community
 date: 2019-10-19

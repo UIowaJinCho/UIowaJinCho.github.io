@@ -1,5 +1,5 @@
 ---
-title: "Modeling and Evaluation of Clustering Patient Care into Bubbles"
+title: "[Conference] Modeling and Evaluation of Clustering Patient Care into Bubbles"
 collection: publications
 permalink: /publication/2021-05-13-Modeling-and-Evaluation-of-Clustering-Patient-Care-into-Bubbles
 date: 2021-05-13

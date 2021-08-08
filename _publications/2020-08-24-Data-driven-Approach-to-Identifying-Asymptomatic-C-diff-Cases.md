@@ -1,5 +1,5 @@
 ---
-title: "Data-driven Approach to Identifying Asymptomatic C. diff Cases"
+title: "[Workshop] Data-driven Approach to Identifying Asymptomatic C. diff Cases"
 collection: publications
 permalink: /publication/2020-08-24-Data-driven-Approach-to-Identifying-Asymptomatic-C-diff-Cases
 date: 2020-08-24

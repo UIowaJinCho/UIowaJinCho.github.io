@@ -1,5 +1,5 @@
 ---
-title: "Using Data Collected from a Commercial Sensor System to Inform Mathematical Models of Healthcare-Associated Infections"
+title: "[Abstract] Using Data Collected from a Commercial Sensor System to Inform Mathematical Models of Healthcare-Associated Infections"
 collection: publications
 permalink: /publication/2020-11-02-Using-Data-Collected-from-a-Commercial-Sensor-System-to-Inform-Mathematical-Models-of-Healthcare-Associated-Infections
 date: 2020-11-02

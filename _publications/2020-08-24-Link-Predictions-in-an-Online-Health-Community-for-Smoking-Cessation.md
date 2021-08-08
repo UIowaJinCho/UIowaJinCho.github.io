@@ -1,5 +1,5 @@
 ---
-title: "Link Predictions in an Online Health Community for Smoking Cessation"
+title: "[Workshop] Link Predictions in an Online Health Community for Smoking Cessation"
 collection: publications
 permalink: /publication/2020-08-24-Link-Predictions-in-an-Online-Health-Community-for-Smoking-Cessation
 date: 2020-08-24

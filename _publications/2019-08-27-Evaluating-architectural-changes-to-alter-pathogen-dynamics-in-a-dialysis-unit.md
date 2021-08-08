@@ -1,5 +1,5 @@
 ---
-title: "Evaluating architectural changes to alter pathogen dynamics in a dialysis unit"
+title: "[Conference - BEST PAPER AWARDS] Evaluating architectural changes to alter pathogen dynamics in a dialysis unit"
 collection: publications
 permalink: /publication/2019-08-27-Evaluating-architectural-changes-to-alter-pathogen-dynamics-in-a-dialysis-unit
 date: 2019-08-27
