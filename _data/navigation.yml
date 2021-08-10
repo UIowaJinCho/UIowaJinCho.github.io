@@ -9,10 +9,10 @@ main:
   - title: "Awards"
     url: /awards/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+    #url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "ML Projects"
     url: /portfolio/
         
   #- title: "Blog Posts"
