@@ -12,17 +12,18 @@ main:
   #- title: "Teaching"
     #url: /teaching/    
     
-  - title: "ML Projects"
-    url: /portfolio/
+  #- title: "ML Projects"
+    #url: /portfolio/
 
-  - title: "Project"
-    url: /project/
+  #- title: "Project"
+    #url: /project/
         
   #- title: "Blog Posts"
     #url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    #url: /cv/
+    url: /files/HankyuJang_CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+    #url: /markdown/
