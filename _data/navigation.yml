@@ -14,6 +14,9 @@ main:
     
   - title: "ML Projects"
     url: /portfolio/
+
+  - title: "Project"
+    url: /project/
         
   #- title: "Blog Posts"
     #url: /year-archive/
