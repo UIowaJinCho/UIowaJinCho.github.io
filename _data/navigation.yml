@@ -18,12 +18,12 @@ main:
   #- title: "Project"
     #url: /project/
         
-  #- title: "Blog Posts"
-    #url: /year-archive/
-    
   - title: "CV"
     #url: /cv/
     url: /files/HankyuJang_CV.pdf
+    
+  #- title: "Blog Posts"
+    #url: /year-archive/
     
   #- title: "Guide"
     #url: /markdown/
