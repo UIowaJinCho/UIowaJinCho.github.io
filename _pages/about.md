@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ======
-I'm a PhD student in Computer Science at the University of Iowa, advised by [Dr. Alberto Segre](https://cs.uiowa.edu/people/alberto-segre), [Dr. Sriram Pemmaraju](https://cs.uiowa.edu/people/sriram-pemmaraju), and closely working with [Dr. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari) as a part of the Computational Epidemiology research lab.
+I'm a PhD student in Computer Science at the University of Iowa, advised by [Dr. Alberto Segre](https://cs.uiowa.edu/people/alberto-segre), [Dr. Sriram Pemmaraju](https://cs.uiowa.edu/people/sriram-pemmaraju), and closely working with [Dr. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari) as a part of the Computational Epidemiology research lab. I'm also a member of the [AlgoEpi reading group](https://compepiuiowa.github.io/reading-group/) that discuss techniques from algorithms, data mining, and ML that can be applied to problems related to the spread of infections.
 
 Research interest
 ======
