@@ -25,7 +25,8 @@ Our team ‘Random Variables’ visualized gaps in care by mapping mental health
 
 Fellowships
 ======
-- Merit Scholarhip (2014 - 2015) at Handong Global University. Top 1\% in Spring 2015 (Full Tuition)
+- Graduate College Post-Comprehensive Research Fellowship (Spring 2022) at the University of Iowa
+- Merit Scholarhip (2014 - 2015) at Handong Global University. Top 1% in Spring 2015 (Full Tuition)
 - Community Leadership Training Team Leader Scholarship at Handong Global University
 
 Honors
