@@ -1,5 +1,5 @@
 ---
-title: "[Conference] Risk-aware Temporal Cascade Reconstruction to Detect Asymptomatic Cases"
+title: "[Conference - one of Best Ranked Papers] Risk-aware Temporal Cascade Reconstruction to Detect Asymptomatic Cases"
 collection: publications
 permalink: /publication/2021-08-31-Risk-aware-Temporal-Cascade-Reconstruction-to-Detect-Asymptomatic-Cases
 date: 2021-08-31
