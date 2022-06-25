@@ -10,12 +10,21 @@ redirect_from:
 
 Bio
 ======
-I'm a PhD student in Computer Science at the University of Iowa, advised by [Dr. Alberto Segre](https://cs.uiowa.edu/people/alberto-segre), [Dr. Sriram Pemmaraju](https://cs.uiowa.edu/people/sriram-pemmaraju), and closely working with [Dr. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari) as a part of the Computational Epidemiology research lab. I'm also a member of the [AlgoEpi reading group](https://compepiuiowa.github.io/reading-group/) that discuss techniques from algorithms, data mining, and ML that can be applied to problems related to the spread of infections.
+I'm a PhD candidate in Computer Science at the University of Iowa, advised by [Dr. Segre](https://cs.uiowa.edu/people/alberto-segre), [Dr. Pemmaraju](https://cs.uiowa.edu/people/sriram-pemmaraju), and closely working with [Dr. Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari) at the Computational Epidemiology research lab. I'm also a member of the [AlgoEpi reading group](https://compepiuiowa.github.io/reading-group/) that discuss techniques from algorithms, data mining, and ML that can be applied to problems related to the spread of infections.
 
-Research interest
+Industry Experience
 ======
-My focus is machine learning on graphs (or graph mining), such as social networks or people-to-people contact networks. Graph mining includes learning representations (e.g., node or graph level), link prediction (e.g., recommender system), node classification (e.g., predicting the onset of disease on the patient network), and information diffusion (e.g., the understanding spread of infectious disease such as COVID-19). I’ve also developed graph attention-based methods for learning the structure of datasets during my summer data science internship at [AmFam](https://www.ai-ml-amfam.com/team). I also have experience in developing agent-based simulators to propose intervention strategies to slow down the spread of infectious diseases (such as the [COVID-19 simulator](https://github.com/HankyuJang/Dialysis_COVID19)).
+As in summer 2022, I'm working as an Applied Scientist intern at Amazon, in the Buyer Risk Prevention team. I'm working on the graph community detection project, where the goal is to do community detection on the retail orders to detect groups of fraudulent orders. We're exploring scalable framework for detecting small communities in large graphs (e.g., millions of retail orders per day per target area).
+In summer 2021, I worked as a machine learning and data science intern at [ML team @ AmFam](https://www.ai-ml-amfam.com/team). There, I implemented graph attention network to detect suspicious data entries in the claims dataset.
+
+PhD Research
+======
+My focus is machine learning on graphs (or graph mining), such as social networks, people-to-people contact networks. 
+Graph mining includes learning representations (e.g., node or graph level), link prediction (e.g., recommender system), node classification (e.g., predicting the onset of disease on the patient network), and information diffusion (e.g., the understanding spread of infectious disease such as COVID-19). 
+I also have experience in developing methods for submodular function optimization, and applied it to detect infection sources of outbreaks, which was a collaborative work with members from Georgia Tech and Virginia Tech.
+Finally, I have developed agent-based simulators to propose intervention strategies to slow down the spread of target infectious diseases ([COVID-19 simulator](https://github.com/HankyuJang/Dialysis_COVID19)).
 
 Extracurricular activities
 ======
-In my free time, I enjoy playing musical instruments, such as classical guitar (me, playing Kleine Romanze at a concert during college: [youtube](https://youtu.be/gUUJiO6dBcM)), acoustic guitar, and piano (beginner - barely play by chords). In addition, I try to work out every day and recently started running outdoors with my Garmin forerunner running watch.
+In my free time, I enjoy playing musical instruments, such as classical guitar (me, playing Kleine Romanze at a concert during college: [youtube](https://youtu.be/gUUJiO6dBcM)). 
+I'm a runner - I run outdoors regularly, with my Garmin forerunner running watch.
