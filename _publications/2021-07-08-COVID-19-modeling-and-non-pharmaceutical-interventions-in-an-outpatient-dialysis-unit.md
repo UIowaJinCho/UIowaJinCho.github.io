@@ -10,3 +10,4 @@ author: '<strong>Hankyu Jang</strong>, Philip M. Polgreen, Alberto M. Segre, and
 ---
 
 [pdf](http://HankyuJang.github.io/files/paper/PLOS21_COVID19_modeling_NPIs.pdf)
+[code](https://github.com/HankyuJang/Dialysis_COVID19)
