@@ -9,4 +9,4 @@ citation: 'Hankyu Jang, Samuel Justice, Philip M. Polgreen, Alberto M. Segre, Da
 author: '<strong>Hankyu Jang</strong>, Samuel Justice, Philip M. Polgreen, Alberto M. Segre, Daniel K. Sewell, and Sriram V. Pemmaraju'
 ---
 
-[pdf](http://HankyuJang.github.io/files/paper/2019_ASONAM_presentation.pdf)
+[pdf](http://HankyuJang.github.io/files/paper/ASONAM19_MRSA_modeling_architecture_change.pdf)
