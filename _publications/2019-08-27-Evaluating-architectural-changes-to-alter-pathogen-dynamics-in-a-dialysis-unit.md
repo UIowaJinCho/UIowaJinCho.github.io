@@ -8,3 +8,5 @@ paperurl: 'https://dl.acm.org/doi/abs/10.1145/3341161.3343515'
 citation: 'Hankyu Jang, Samuel Justice, Philip M. Polgreen, Alberto M. Segre, Daniel K. Sewell, and Sriram V. Pemmaraju. 2019. &quot;Evaluating architectural changes to alter pathogen dynamics in a dialysis unit&quot; <i>In Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2019).</i>' 
 author: '<strong>Hankyu Jang</strong>, Samuel Justice, Philip M. Polgreen, Alberto M. Segre, Daniel K. Sewell, and Sriram V. Pemmaraju'
 ---
+
+[pdf](http://HankyuJang.github.io/files/paper/2019_ASONAM_presentation.pdf)
