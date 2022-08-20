@@ -14,7 +14,9 @@ I'm a PhD candidate in Computer Science at the University of Iowa, advised by [D
 
 Industry Experience
 ======
-As of summer 2022, I’m working as an Applied Scientist intern at Amazon in the Buyer Risk Prevention team. I’m working on the graph community detection project, where the goal is to do community detection on retail orders to detect groups of fraudulent orders. We’re exploring scalable frameworks for detecting small communities in large graphs (e.g., millions of retail orders per day per target area). In the summer of 2021, I worked as a machine learning and data science intern at [ML team @ AmFam](https://www.ai-ml-amfam.com/team). I applied the graph attention network to detect suspicious data entries in the claims dataset.
+In summer 2022, I worked as an Applied Scientist intern at Amazon in the Buyer Risk Prevention team. 
+I built a scalable fraud community detection pipeline by applying the state of the art techniques in graph mining.
+In the summer of 2021, I worked as a machine learning and data science intern at [ML team @ AmFam](https://www.ai-ml-amfam.com/team). I applied the graph attention network to detect suspicious data entries in the claims dataset.
 
 PhD Research
 ======
