@@ -26,4 +26,4 @@ Extracurricular activities
 ======
 In my free time, I enjoy playing musical instruments, such as classical guitar (me, playing Kleine Romanze at a concert during college: [youtube](https://youtu.be/gUUJiO6dBcM)). 
 I'm a runner - I run outdoors regularly, with my Garmin forerunner running watch.
-![Marathon](http://HankyuJang.github.io/images/marathon.JPG)
+![Marathon](http://HankyuJang.github.io/images/marathon.PNG)
