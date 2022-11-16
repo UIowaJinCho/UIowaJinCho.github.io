@@ -9,3 +9,4 @@ citation: 'Hankyu Jang, Hankyu Jang, Sulyun Lee, D. M. Hasibul Hasan, Philip M. 
 author: '<strong>Hankyu Jang</strong>, Sulyun Lee, D. M. Hasibul Hasan, Philip M. Polgreen, Sriram V. Pemmaraju and Bijaya Adhikari'
 ---
 
+[pdf](http://HankyuJang.github.io/files/paper/no_copyright_ASONAM22_dynamic_healthcare_embeddings_for_improving_patient_care.pdf)
