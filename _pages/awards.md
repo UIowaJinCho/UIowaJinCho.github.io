@@ -9,7 +9,13 @@ author_profile: true
 
 Best Paper Awards
 ======
-- <strong>Hankyu Jang</strong>, Samuel Justice, Philip M. Polgreen, Alberto M. Segre, Daniel K. Sewell, and Sriram V. Pemmaraju. 2019. &quot;Evaluating architectural changes to alter pathogen dynamics in a dialysis unit&quot; <i>In Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2019).</i> 
+
+- Top 2 among student papers: <strong>Hankyu Jang</strong>, Sulyun Lee, D. M. Hasibul Hasan, Philip M. Polgreen, Sriram V. Pemmaraju and Bijaya Adhikari. &quot;Dynamic Healthcare Embeddings for Improving Patient Care&quot; <i>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2022).</i>' 
+  - [pdf](http://HankyuJang.github.io/files/paper/no_copyright_ASONAM22_dynamic_healthcare_embeddings_for_improving_patient_care.pdf) [code](https://github.com/HankyuJang/DECEnt-dynamic-healthcare-embeddings)
+- One of the best ranked papers: <strong>Hankyu Jang</strong>, Shreyas Pai, Bijaya Adhikari, Sriram V. Pemmaraju. &quot;Risk-aware Temporal Cascade Reconstruction to Detect Asymptomatic Cases&quot; <i>IEEE International Conference on Data Mining (ICDM 2021)</i>
+  - [pdf](http://HankyuJang.github.io/files/paper/ICDM21_asymptomatic_case_detection_PCST.pdf) [code](https://github.com/HankyuJang/directed-PCST-asymptomatic-detection)
+- Top 1: <strong>Hankyu Jang</strong>, Samuel Justice, Philip M. Polgreen, Alberto M. Segre, Daniel K. Sewell, and Sriram V. Pemmaraju. &quot;Evaluating architectural changes to alter pathogen dynamics in a dialysis unit&quot; <i>IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2019).</i> 
+  - [pdf](http://HankyuJang.github.io/files/paper/ASONAM19_MRSA_modeling_architecture_change.pdf)
 
 Big Data Challenge
 ======
