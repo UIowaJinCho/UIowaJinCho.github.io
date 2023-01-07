@@ -28,3 +28,4 @@ In my free time, I enjoy playing musical instruments, such as classical guitar (
 I'm a runner - I run outdoors regularly, with my Garmin forerunner running watch.
 I completed 5 half marathons in the year 2022!
 ![Marathon](http://HankyuJang.github.io/images/marathon.PNG)
+- Hot Cider Half Marathon Finishline [youtube](https://youtu.be/X_K269BE1C0), Record [record](https://results.truetimeracing.com/MyResults.aspx?uid=16535-1068-2-77770&yt=1)
