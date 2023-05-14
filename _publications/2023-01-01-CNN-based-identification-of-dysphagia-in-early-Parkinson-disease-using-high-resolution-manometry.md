@@ -1,8 +1,8 @@
 ---
 title: ""
 collection: publications
-permalink: /publication/2023-00-00-CNN-based-identification-of-dysphagia-in-early-Parkinson-disease-using-high-resolution-manometry
-date: 2019-08-27
+permalink: /publication/2023-01-01-CNN-based-identification-of-dysphagia-in-early-Parkinson-disease-using-high-resolution-manometry
+date: 2023-01-01
 venue: ''
 paperurl: ''
 citation: '' 
