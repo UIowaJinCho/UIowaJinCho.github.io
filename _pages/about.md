@@ -21,11 +21,10 @@ In the summer of 2021, I worked as a machine learning and data science intern at
 PhD Research
 ======
 My focus is machine learning on graphs (or graph mining), such as social networks and people-to-people contact networks. Graph mining includes learning representations (e.g., node or graph level), link prediction (e.g., recommender system), node classification (e.g., predicting the onset of disease on the patient network), and information diffusion (e.g., the understanding spread of infectious disease such as COVID-19). I also have experience developing methods for submodular function optimization and applying them to detect infection sources of outbreaks - a collaborative work with Georgia Tech and University of Virginia members. Finally, I have developed agent-based simulators to propose intervention strategies to slow down the spread of target infectious diseases ([COVID-19 simulator](https://github.com/HankyuJang/Dialysis_COVID19)).
-
+-->
 Extracurricular activities
 ======
-In my free time, I enjoy playing musical instruments, such as classical guitar (me, playing Kleine Romanze at a concert during college: [youtube](https://youtu.be/gUUJiO6dBcM)). 
-I'm a runner - I run outdoors regularly, with my Garmin forerunner running watch.
-I completed 5 half marathons in the year 2022!
-![Marathon](http://HankyuJang.github.io/images/marathon.PNG)
-- Hot Cider Half Marathon Finishline [youtube](https://youtu.be/X_K269BE1C0?t=5678), Record [record](https://results.truetimeracing.com/MyResults.aspx?uid=16535-1068-2-77770&yt=1) -->
+I hate to waste my free time on the bed and I am an individual with a lot of curiousity and interest.
+
+So far, I have been up to:
+  Be in a punk band until I realized I had a stage fright at the very first performance.
