@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
-  - title: "Awards"
-    url: /awards/    
+  # - title: "Awards"
+  #   url: /awards/    
 
   #- title: "Teaching"
     #url: /teaching/    
@@ -19,7 +19,6 @@ main:
     #url: /project/
         
   - title: "CV"
-    #url: /cv/
     url: /files/Hyunjin_Cho_CV_2023.pdf
     
   #- title: "Blog Posts"
