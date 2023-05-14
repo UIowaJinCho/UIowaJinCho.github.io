@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ======
-I'm a MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman, MD, PhD](https://uihc.org/providers/matthew-hoffman) and [Prof. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari).
+I'm a MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) and [Prof. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari). I am currently conductiong research in the field of Otolaryngology and Computational Epidemiology.
 
 <!-- Industry Experience
 ======
