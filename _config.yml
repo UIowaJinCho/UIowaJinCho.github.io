@@ -80,30 +80,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hankyu Jang"
+  name             : "Hyunjin Cho"
   avatar           : "profile.jpg"
-  bio              : "PhD student in Computer Science at the University of Iowa (MS in Data Science)"
+  bio              : "MCS student in Computer Science at the University of Iowa"
   location         : "Iowa City, IA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=rz_fPikAAAAJ"
-  email            : "jhkmath@gmail.com"
+  googlescholar    : 
+  email            : "hyunjin-cho@uiowa.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "DataScientist.HankyuJang"
+  facebook         : #"DataScientist.HankyuJang"
   foursquare       :
-  github           : "HankyuJang"
+  github           : "EccentricAntipathes"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hankyujang"
-  orcid            : "https://orcid.org/0000-0002-3056-4347"
+  linkedin         : #"hankyujang"
+  orcid            : #"https://orcid.org/0000-0002-3056-4347"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
