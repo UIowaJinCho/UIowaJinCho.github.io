@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hyunjin(Jin) Cho"
+title: "Academic Webpage"
 excerpt: "About Hyunjin Cho"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ======
-I'm a PhD candidate in Computer Science at the University of Iowa, advised by [Dr. Segre](https://cs.uiowa.edu/people/alberto-segre), [Dr. Pemmaraju](https://cs.uiowa.edu/people/sriram-pemmaraju), and closely working with [Dr. Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari) at the Computational Epidemiology research lab. I'm also a member of the [AlgoEpi reading group](https://compepiuiowa.github.io/reading-group/) that discuss techniques from algorithms, data mining, and ML that can be applied to problems related to the spread of infections.
+I'm a MCS(Master in Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman, MD, PhD](https://uihc.org/providers/matthew-hoffman) and [Prof. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari).
 
 Industry Experience
 ======
