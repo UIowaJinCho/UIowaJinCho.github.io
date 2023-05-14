@@ -22,6 +22,8 @@ PhD Research
 ======
 My focus is machine learning on graphs (or graph mining), such as social networks and people-to-people contact networks. Graph mining includes learning representations (e.g., node or graph level), link prediction (e.g., recommender system), node classification (e.g., predicting the onset of disease on the patient network), and information diffusion (e.g., the understanding spread of infectious disease such as COVID-19). I also have experience developing methods for submodular function optimization and applying them to detect infection sources of outbreaks - a collaborative work with Georgia Tech and University of Virginia members. Finally, I have developed agent-based simulators to propose intervention strategies to slow down the spread of target infectious diseases ([COVID-19 simulator](https://github.com/HankyuJang/Dialysis_COVID19)).
 -->
+
+
 Extracurricular activities
 ======
 I hate to waste my free time on the bed and I am an individual with a lot of curiousity and interest.
