@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Hyunjin Cho"
+title: "About Hankyu Jang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
