@@ -9,7 +9,7 @@ author_profile: true
 
 HACK-A-THON
 ======
-<strong>SOMETHING</strong> in 2017 Indiana Medicaid Data Challenge – Data Analysis
+<strong>Intelligent Systems in Geoscience Award</strong> in HackUIowa '22
 
 <!-- ![Data Challenge winner](http://HankyuJang.github.io/images/2017-Indiana-Medicaid-Data-Challenge.jpg)
 
