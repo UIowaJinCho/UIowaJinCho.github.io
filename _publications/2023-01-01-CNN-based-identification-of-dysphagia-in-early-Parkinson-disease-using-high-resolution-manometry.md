@@ -1,5 +1,5 @@
 ---
-title:"Convolution Neural Network-based identification of dysphagia in early Parkinson disease using high resolution manometry"
+title: "Convolution Neural Network-based identification of dysphagia in early Parkinson disease using high resolution manometry"
 collection: publications
 permalink: 
 date: 0000-01-01
