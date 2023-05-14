@@ -12,7 +12,7 @@ Bio
 ======
 I'm a MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman, MD, PhD](https://uihc.org/providers/matthew-hoffman) and [Prof. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari).
 
-Industry Experience
+<!-- Industry Experience
 ======
 In summer 2022, I worked as an Applied Scientist intern at Amazon in the Buyer Risk Prevention team. 
 I built a scalable fraud community detection pipeline by applying the state of the art techniques in graph mining.
@@ -28,4 +28,4 @@ In my free time, I enjoy playing musical instruments, such as classical guitar (
 I'm a runner - I run outdoors regularly, with my Garmin forerunner running watch.
 I completed 5 half marathons in the year 2022!
 ![Marathon](http://HankyuJang.github.io/images/marathon.PNG)
-- Hot Cider Half Marathon Finishline [youtube](https://youtu.be/X_K269BE1C0?t=5678), Record [record](https://results.truetimeracing.com/MyResults.aspx?uid=16535-1068-2-77770&yt=1)
+- Hot Cider Half Marathon Finishline [youtube](https://youtu.be/X_K269BE1C0?t=5678), Record [record](https://results.truetimeracing.com/MyResults.aspx?uid=16535-1068-2-77770&yt=1) -->
