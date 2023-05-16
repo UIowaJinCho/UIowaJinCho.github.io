@@ -26,7 +26,11 @@ My focus is machine learning on graphs (or graph mining), such as social network
 
 Extracurricular activities
 ======
-I hate to waste my free time on the bed and I am an individual with a lot of curiousity and interest.
+When I have free time, I would like to keep myself busy with new things and here are what I have been up to throught my life.
 
-So far, I have been up to:
-  Be in a punk band until I realized I had a stage fright at the very first performance.
+* Music:
+  * Used to be
+* Athletic activities:
+  * Swimming
+  * Track Running
+* Etc:
