@@ -47,7 +47,7 @@ When I have free time, I would like to keep myself busy with new things and here
 * Extra enthused for:
   * Culinary arts
   * Scuba Diving
-  *![Bubbles](http://UIowaJinCho.github.io/images/bubbles.gif)
+  * ![Bubbles](http://UIowaJinCho.github.io/images/bubbles.gif)
   * Free Diving
   * Camping and backpacking trips
 * Etc:
