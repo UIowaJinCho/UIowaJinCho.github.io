@@ -53,7 +53,7 @@ When I have free time, I would like to keep myself busy with new things and here
 * Etc:
   * Computer/Console Games in general
     * Played in amateur league for Dota 1
-    * Playing Over Watch with my wife
+    * Playing Overwatch with my wife
     * 150+ games on Steam so far..
   * Bartending
   * Comedy
