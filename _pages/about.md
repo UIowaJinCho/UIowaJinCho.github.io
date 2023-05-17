@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ======
-I'm a MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) and [Prof. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari). I am currently conductiong research in the field of Otolaryngology and Computational Epidemiology.
+I'm a MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) and [Prof. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari).
 
 Some Personal Stuff
 ======
@@ -21,12 +21,13 @@ I went through a five-year medical battle following my graduation from the Unive
 
 MCS Research
 ======
-Currently conducting research in detecting swallowing disorders using AI with Prof. Matt Hoffman at the University of Iowa Health Care, Department of Otolaryngology, and Computational Epidemiology with Prof. Bijaya Adhikari from Comp Epi lab at the University of Iowa.
+Currently conducting research in detecting swallowing disorders using machine learning with Prof. Matt Hoffman and Computational Epidemiology with Prof. Bijaya Adhikari at the University of Iowa.
 
 Personal Research Interest
 ======
 On the side, I like to fiddle with personally captured underwater images from my scuba diving trips.
 
+![Underwatervideo](http://UIowaJinCho.github.io/files/videos/Underwater.mp4)
 
 Extracurricular activities
 ======
