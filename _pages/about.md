@@ -25,10 +25,10 @@ Currently conducting research in detecting swallowing disorders using machine le
 
 Personal Research Interest
 ======
-On the side, I like to fiddle with personally captured underwater images from my scuba diving trips.
+On the side, I like to fiddle with personally captured underwater images/videos from my scuba diving trips.
 
 <!-- ![Underwatervideo](http://UIowaJinCho.github.io/files/videos/Underwater.mp4) -->
-![Underwatervideo](http://UIowaJinCho.github.io/images/Underwater.gif)
+![Underwatervideo](http://UIowaJinCho.github.io/images/underwater.gif)
 
 
 [More pretty things](https://www.linkedin.com/posts/ipdiss_gopro-diveroid-underwatercamera-activity-6912387474770075648-sKWI?utm_source=share&utm_medium=member_desktop)
@@ -47,6 +47,7 @@ When I have free time, I would like to keep myself busy with new things and here
 * Extra enthused for:
   * Culinary arts
   * Scuba Diving
+  *![Bubbles](http://UIowaJinCho.github.io/images/bubbles.gif)
   * Free Diving
   * Camping and backpacking trips
 * Etc:
