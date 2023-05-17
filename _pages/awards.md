@@ -10,6 +10,7 @@ author_profile: true
 HACK-A-THON
 ======
 <strong>Intelligent Systems in Geoscience Award</strong> in HackUIowa '22
+[Projedt DevPost link](https://devpost.com/software/crime-map-2n0kcy)
 
 <!-- ![Data Challenge winner](http://HankyuJang.github.io/images/2017-Indiana-Medicaid-Data-Challenge.jpg)
 
