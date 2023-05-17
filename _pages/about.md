@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Bio
-======
 I'm a MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) and [Prof. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari).
 
 Some Personal Stuff
