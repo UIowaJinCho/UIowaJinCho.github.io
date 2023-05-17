@@ -84,32 +84,32 @@ author:
   avatar           : "profile_pic.jpg"
   bio              : "MCS student in Computer Science at the University of Iowa"
   location         : "Iowa City, IA"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "University of Iowa Health Care - Otolaryngology - Head and Neck Surgery"
+  pubmed           : 
   googlescholar    : 
   email            : "hyunjin-cho@uiowa.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"DataScientist.HankyuJang"
+  facebook         : 
   foursquare       :
   github           : "UIowaJinCho"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "@uiowa_jin_cho"
+  impactstory      : 
   lastfm           :
-  linkedin         : #"hankyujang"
-  orcid            : #"https://orcid.org/0000-0002-3056-4347"
+  linkedin         : "https://www.linkedin.com/in/ipdiss/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@UIowaJinCho"
   vine             :
   weibo            :
   xing             :
