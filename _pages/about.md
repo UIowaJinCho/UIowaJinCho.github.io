@@ -27,7 +27,7 @@ Personal Research Interest
 ======
 On the side, I like to fiddle with personally captured underwater images from my scuba diving trips.
 
-![Underwatervideo](http://UIowaJinCho.github.io/files/videos/Underwater.mp4)
+<!-- ![Underwatervideo](http://UIowaJinCho.github.io/files/videos/Underwater.mp4) -->
 ![Underwatervideo](http://UIowaJinCho.github.io/images/Underwater.gif)
 
 Extracurricular activities
