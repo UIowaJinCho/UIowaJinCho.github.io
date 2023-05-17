@@ -9,8 +9,14 @@ author_profile: true
 
 HACK-A-THON
 ======
-<strong>Intelligent Systems in Geoscience Award</strong> in HackUIowa '22
-[Projedt DevPost link](https://devpost.com/software/crime-map-2n0kcy)
+<strong>Intelligent Systems in Geoscience Award</strong> in HackUIowa '22  [Projedt DevPost](https://devpost.com/software/crime-map-2n0kcy)
+
+<strong>Data Track</strong> from the University of Utah Computer Science program
+
+<strong>Dean's List</strong> in Fall 2016 Semester
+
+
+
 
 <!-- ![Data Challenge winner](http://HankyuJang.github.io/images/2017-Indiana-Medicaid-Data-Challenge.jpg)
 
