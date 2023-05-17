@@ -9,8 +9,8 @@ main:
   - title: "Awards"
     url: /awards/    
 
-  #- title: "Teaching"
-    #url: /teaching/    
+  - title: "Professional Experience"
+    url: /professionalExperience/    
     
   #- title: "ML Projects"
     #url: /portfolio/
