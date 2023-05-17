@@ -13,11 +13,15 @@ Started a company named DiveFlash for underwater image processing. Currently on 
 
 2020
 ======
-Worked as a freelancer for Xandar Kardian inc. and SKMagic Malaysia. Worked contract based because I wanted to pursue graduate program once COVID settles down.
+Worked as a freelancer for Xandar Kardian inc. and SKMagic Malaysia. 
+
+Worked contract based because I wanted to pursue graduate program once COVID settles down.
 
 2018
 ======
-Worked as a research assistant engineer for a defense company. I developed a combat simulator for South Korean Navy's new AEGIS Destroyers class battleship.
+Worked as a research assistant engineer for a defense company. 
+
+I developed a combat simulator for South Korean Navy's new AEGIS Destroyers class battleship.
 
 2016-2017
 ======
