@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Webpage"
+title: "Academic Webpage of Hyunjin Cho"
 excerpt: "About Hyunjin Cho"
 author_profile: true
 redirect_from: 
@@ -48,6 +48,7 @@ When I have free time, I would like to keep myself busy with new things and here
     * Played in amateur league for Dota 1
     * Playing Over Watch with my wife
     * 150+ games on Steam so far..
+  * Bartending
   * Comedy
   * Fishing
   * Racing
