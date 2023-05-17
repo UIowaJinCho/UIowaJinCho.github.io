@@ -21,7 +21,7 @@ I went through a five-year medical battle following my graduation from the Unive
 
 MCS Research
 ======
-Currently conducting research in detecting swallowing disorders using machine learning with Prof. Matt Hoffman and Computational Epidemiology with Prof. Bijaya Adhikari at the University of Iowa.
+My current research interest lies at the intersection of healthcare and technology, focusing on utilizing machine learning for medical applications. Under the guidance of Professor Matthew Hoffman, I am investigating dysphagia detection from High-Resolution Manometry (HRM) images. The objective is to create a model capable of identifying and predicting dysphagia with enhanced accuracy and speed, aiming to improve patient diagnosis and treatment plans. Additionally, I am working with Professor Bijaya Adhikari on computational epidemiology. Here, we strive to develop sophisticated models to predict disease spread and impact, with the goal of informing public health decisions and interventions. These research pursuits are fuelled by a desire to meld technology and medicine, ultimately aiming to enhance healthcare outcomes.
 
 Personal Research Interest
 ======
