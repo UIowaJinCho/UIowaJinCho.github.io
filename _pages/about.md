@@ -30,6 +30,10 @@ On the side, I like to fiddle with personally captured underwater images from my
 <!-- ![Underwatervideo](http://UIowaJinCho.github.io/files/videos/Underwater.mp4) -->
 ![Underwatervideo](http://UIowaJinCho.github.io/images/Underwater.gif)
 
+
+[More pretty things](https://www.linkedin.com/posts/ipdiss_gopro-diveroid-underwatercamera-activity-6912387474770075648-sKWI?utm_source=share&utm_medium=member_desktop)
+
+
 Extracurricular activities
 ======
 When I have free time, I would like to keep myself busy with new things and here are what I have been up to throughout my life.
