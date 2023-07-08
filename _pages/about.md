@@ -10,6 +10,11 @@ redirect_from:
 
 I'm a MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) and [Prof. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari).
 
+![MachineLearning](http://UIowaJinCho.github.io/images/ml.jpg)
+
+###### Image created by Randall Munroe, taken from xkcd.
+
+
 Some Personal Stuff
 ======
 Life has a way of testing our resilience, and my journey has been no different. 
