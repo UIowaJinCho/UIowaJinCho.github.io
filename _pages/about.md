@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Webpage of Hyunjin Cho"
+title: "Webpage of Hyunjin Cho"
 excerpt: "About Hyunjin Cho"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) and [Prof. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari).
+I'm an MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) and [Prof. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari).
 
 ![MachineLearning](http://UIowaJinCho.github.io/images/ml.jpg)
 
@@ -24,9 +24,9 @@ I went through a five-year medical battle following my graduation from the Unive
 
 MCS Research
 ======
-My current research interest lies at the intersection of healthcare and technology, focusing on utilizing machine learning for medical applications. Under the guidance of Professor Matthew Hoffman, I am investigating dysphagia detection from High-Resolution Manometry (HRM) images. The objective is to create a model capable of identifying and predicting dysphagia with enhanced accuracy and speed, aiming to improve patient diagnosis and treatment plans. Additionally, I am working with Professor Bijaya Adhikari on computational epidemiology. Here, we strive to develop sophisticated models to predict disease spread and impact, with the goal of informing public health decisions and interventions. These research pursuits are fuelled by a desire to meld technology and medicine, ultimately aiming to enhance healthcare outcomes.
+My current research interest lies at the intersection of healthcare and technology, focusing on utilizing machine learning for medical applications. Under the guidance of Professor Matthew Hoffman, I am investigating dysphagia detection from High-Resolution Manometry (HRM) images. The objective is to create a model capable of identifying and predicting dysphagia with enhanced accuracy and speed, aiming to improve patient diagnosis and treatment plans. Additionally, I am working with Professor Bijaya Adhikari on computational epidemiology. Here, we strive to develop sophisticated models to predict disease spread and impact, with the goal of informing public health decisions and interventions. These research pursuits are fueled by a desire to meld technology and medicine, ultimately aiming to enhance healthcare outcomes.
 
-Personal Research Interest
+Personal Research Interests
 ======
 On the side, I like to fiddle with personally captured underwater images/videos from my scuba diving trips.
 
@@ -39,28 +39,24 @@ On the side, I like to fiddle with personally captured underwater images/videos 
 
 Extracurricular activities
 ======
-When I have free time, I would like to keep myself busy with new things and here are what I have been up to throughout my life.
+When I have free time, I like to keep myself busy with new things.
 
 * Music:
-  * Used to be a drummer for a punk rock band in high school until I realized I had stage fright.
+  * I Used to be a drummer for a punk rock band in high school until I realized I had stage fright.
 * Athletic activities:
   * Swimming 
   * Track Running 
   * Snowboarding
-* Extra enthused for:
+* Particularly Enthused About:
   * Culinary arts
   * Scuba Diving
   * ![Bubbles](http://UIowaJinCho.github.io/images/bubbles.gif)
   * Free Diving
   * Camping and backpacking trips
-* Etc:
-  * Computer/Console Games in general
-    * Played in amateur league for Dota 1
-    * Playing Overwatch with my wife
-    * 150+ games on Steam so far..
+* Others:
   * Bartending
   * Comedy
   * Fishing
   * Racing
   * Motorcycles
-  * Electronics(and other things) Repair
+  * Electronics (and other things) Repair
