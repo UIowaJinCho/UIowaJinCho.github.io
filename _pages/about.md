@@ -47,7 +47,7 @@ When I have free time, I like to keep myself busy with new things.
   * Swimming 
   * Track Running 
   * Snowboarding
-* Particularly Enthused About:
+* Particularly enthused about:
   * Culinary arts
   * Scuba Diving
   * ![Bubbles](http://UIowaJinCho.github.io/images/bubbles.gif)
