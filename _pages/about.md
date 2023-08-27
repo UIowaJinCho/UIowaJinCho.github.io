@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Webpage of Hyunjin Cho"
+title: "Hyunjin(Jin) Cho"
 excerpt: "About Hyunjin Cho"
 author_profile: true
 redirect_from: 
@@ -42,7 +42,7 @@ Extracurricular activities
 When I have free time, I like to keep myself busy with new things.
 
 * Music:
-  * I Used to be a drummer for a punk rock band in high school until I realized I had stage fright.
+  * I used to be the drums for a punk rock band in high school.
 * Athletic activities:
   * Swimming 
   * Track Running 
