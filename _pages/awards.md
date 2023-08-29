@@ -13,7 +13,6 @@ HACK-A-THON
 
 <strong>Data Track Specialization</strong> from the University of Utah Computer Science program
 
-<strong>Dean's List</strong> in Fall 2016 Semester
 
 
 

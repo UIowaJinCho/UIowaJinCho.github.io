@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) and [Prof. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari).
+I'm an MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) from the University of Iowa Hospitals and Clinics(UIHC), department of Otolaryngology - Head and Neck Surgery and [Prof. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari) from Computational Epidemiology lab.
 
 ![MachineLearning](http://UIowaJinCho.github.io/images/ml.jpg)
 
@@ -22,7 +22,7 @@ Life has a way of testing our resilience, and my journey has been no different.
 I went through a five-year medical battle following my graduation from the University of Utah. This personal struggle, coupled with my work in the industry to cover medical expenses, has shaped a unique perspective on health and disease, emphasizing the human element of suffering. These experiences sparked a desire to contribute to healthcare, driving my academic journey at the University of Iowa. I'm motivated to make meaningful change in healthcare through diligent research and compassionate care, aiming ultimately to transform lives and enhance patient wellbeing.
 
 
-MCS Research
+M.C.S. Research
 ======
 My current research interest lies at the intersection of healthcare and technology, focusing on utilizing machine learning for medical applications. Under the guidance of Professor Matthew Hoffman, I am investigating dysphagia detection from High-Resolution Manometry (HRM) images. The objective is to create a model capable of identifying and predicting dysphagia with enhanced accuracy and speed, aiming to improve patient diagnosis and treatment plans. Additionally, I am working with Professor Bijaya Adhikari on computational epidemiology. Here, we strive to develop sophisticated models to predict disease spread and impact, with the goal of informing public health decisions and interventions. These research pursuits are fueled by a desire to meld technology and medicine, ultimately aiming to enhance healthcare outcomes.
 
