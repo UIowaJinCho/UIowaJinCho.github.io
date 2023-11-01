@@ -13,11 +13,3 @@ HACK-A-THON
 
 <strong>Data Track Specialization</strong> from the University of Utah Computer Science program
 
-
-
-
-
-<!-- ![Data Challenge winner](http://HankyuJang.github.io/images/2017-Indiana-Medicaid-Data-Challenge.jpg)
-
-Our team ‘Random Variables’ visualized gaps in care by mapping mental health treatment capacity and demand in the Indiana state. We discovered potential ‘underserved’ areas with 94% accuracy using Random Forest classifier. Our solution is published on the website of the State of Indiana. Please see below links for the competition, proposed solution, and links to posts that mention our solution.
- -->

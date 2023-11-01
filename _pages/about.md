@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm an MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) from the University of Iowa Hospitals and Clinics(UIHC), department of Otolaryngology - Head and Neck Surgery and [Prof. Bijaya Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari) from Computational Epidemiology lab.
+I'm an MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) from the University of Iowa Hospitals and Clinics(UIHC), department of Otolaryngology - Head and Neck Surgery and [Prof. Jeremy Greenlee](https://medicine.uiowa.edu/neurosurgery/profile/jeremy-greenlee),[Prof. Christopher Petkov](https://medicine.uiowa.edu/neurosurgery/profile/christopher-petkov) from the Department of Neurosurgery.
 
 ![MachineLearning](http://UIowaJinCho.github.io/images/ml.jpg)
 
 ###### Image created by Randall Munroe, taken from xkcd.
+
+Skills
+======
+I thrive in interdisciplinary projects, boasting a diverse skill set in **Image Processing**, advanced **Machine Learning, and Deep Learning with PyTorch**, complemented by exceptional **software development skills for Windows and mobile applications**. My extensive experience ensures a comprehensive and innovative approach to problem-solving across various domains.
 
 
 Some Personal Stuff
@@ -24,7 +28,7 @@ I went through a five-year medical battle following my graduation from the Unive
 
 M.C.S. Research
 ======
-My current research interest lies at the intersection of healthcare and technology, focusing on utilizing machine learning for medical applications. Under the guidance of Professor Matthew Hoffman, I am investigating dysphagia detection from High-Resolution Manometry (HRM) images. The objective is to create a model capable of identifying and predicting dysphagia with enhanced accuracy and speed, aiming to improve patient diagnosis and treatment plans. Additionally, I am working with Professor Bijaya Adhikari on computational epidemiology. Here, we strive to develop sophisticated models to predict disease spread and impact, with the goal of informing public health decisions and interventions. These research pursuits are fueled by a desire to meld technology and medicine, ultimately aiming to enhance healthcare outcomes.
+My current research interest lies at the intersection of healthcare and technology, focusing on utilizing machine learning for medical applications. Under the guidance of Professor Matthew Hoffman, I am investigating dysphagia detection from High-Resolution Manometry (HRM) images. The objective is to create a model capable of identifying and predicting dysphagia with enhanced accuracy and speed, aiming to improve patient diagnosis and treatment plans. Additionally, I am collaborating with Dr. Jeremy Greenlee and Dr. Chris Petkov on cutting-edge neuroscience research, specifically focusing on working memory and learning in relation to voice and pitch. Our collective goal is to unravel the intricate neural mechanisms behind these processes, with the aim of contributing valuable insights to the field and ultimately enhancing cognitive and auditory health.
 
 Personal Research Interests
 ======
