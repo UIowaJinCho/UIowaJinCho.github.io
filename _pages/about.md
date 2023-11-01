@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm an MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) from the University of Iowa Hospitals and Clinics(UIHC), department of Otolaryngology - Head and Neck Surgery and [Prof. Jeremy Greenlee](https://medicine.uiowa.edu/neurosurgery/profile/jeremy-greenlee),[Prof. Christopher Petkov](https://medicine.uiowa.edu/neurosurgery/profile/christopher-petkov) from the Department of Neurosurgery.
+I'm an MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) from the University of Iowa Hospitals and Clinics(UIHC), department of Otolaryngology - Head and Neck Surgery and [Prof. Jeremy Greenlee](https://medicine.uiowa.edu/neurosurgery/profile/jeremy-greenlee), [Prof. Christopher Petkov](https://medicine.uiowa.edu/neurosurgery/profile/christopher-petkov) from the Department of Neurosurgery.
 
 ![MachineLearning](http://UIowaJinCho.github.io/images/ml.jpg)
 
 ###### Image created by Randall Munroe, taken from xkcd.
+
 
 Skills
 ======
@@ -28,7 +29,7 @@ I went through a five-year medical battle following my graduation from the Unive
 
 M.C.S. Research
 ======
-My current research interest lies at the intersection of healthcare and technology, focusing on utilizing machine learning for medical applications. Under the guidance of Professor Matthew Hoffman, I am investigating dysphagia detection from High-Resolution Manometry (HRM) images. The objective is to create a model capable of identifying and predicting dysphagia with enhanced accuracy and speed, aiming to improve patient diagnosis and treatment plans. Additionally, I am collaborating with Dr. Jeremy Greenlee and Dr. Chris Petkov on cutting-edge neuroscience research, specifically focusing on working memory and learning in relation to voice and pitch. Our collective goal is to unravel the intricate neural mechanisms behind these processes, with the aim of contributing valuable insights to the field and ultimately enhancing cognitive and auditory health.
+My current research interest lies at the intersection of healthcare and technology, focusing on utilizing machine learning for medical applications. Under the guidance of Professor Matthew Hoffman, I am investigating dysphagia detection from High-Resolution Manometry (HRM) images. The objective is to create a model capable of identifying and predicting dysphagia with enhanced accuracy and speed, aiming to improve patient diagnosis and treatment plans. Additionally, I am collaborating with Dr. Jeremy Greenlee and Dr. Christopher Petkov on cutting-edge neuroscience research, specifically focusing on working memory and learning in relation to voice and pitch. Our collective goal is to unravel the intricate neural mechanisms behind these processes, with the aim of contributing valuable insights to the field and ultimately enhancing cognitive and auditory health.
 
 Personal Research Interests
 ======
