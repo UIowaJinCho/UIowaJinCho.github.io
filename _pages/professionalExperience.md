@@ -13,7 +13,7 @@ Research Assistant at Gen Sci Lab, focusing on early Parkinson's Disease detecti
 
 2021
 ======
- Co-founded DiveFlash, a company specializing in underwater image processing and deep learning based fish identification from underwater images. The project is currently on hold due to academic pursuits. [Google PlayStore](https://play.google.com/store/apps/details?id=com.killerwhale.Diveflash), [Company Website](https://diveflash.com/)
+ Co-founded DiveFlash, a company specializing in underwater image processing and deep learning based fish identification from underwater images. The project is currently on hold due to academic pursuits. [Google PlayStore](https://play.google.com/store/apps/details?id=com.killerwhale.Diveflash), [Company Website](https://wearediveflash.github.io/)
 
 2020
 ======
