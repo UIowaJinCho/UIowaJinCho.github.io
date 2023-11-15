@@ -9,7 +9,7 @@ author_profile: true
 
 HACK-A-THON
 ======
-<strong>Intelligent Systems in Geoscience Award</strong> in HackUIowa '22  [Project DevPost](https://devpost.com/software/crime-map-2n0kcy)
+<strong>Intelligent Systems in Geoscience Award</strong> in HackUIowa 22  [Project DevPost](https://devpost.com/software/crime-map-2n0kcy)
 
 <strong>Data Track Specialization</strong> from the University of Utah Computer Science program
 
