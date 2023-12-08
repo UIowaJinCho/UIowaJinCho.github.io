@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-2022 - Current
+2022 - Present
 ======
-Research Assistant at Gen Sci Lab, focusing on early Parkinson's Disease detection using pharyngeal High-Resolution Manometry data.
+Research Assistant at the Gen Sci Lab in the Department of Otolaryngology at the University of Iowa Hospitals and Clinics. My focus is on early detection of Parkinson's Disease using pharyngeal High-Resolution Manometry data. Additionally, I collaborate with the Department of Neurosurgery on research projects related to learning and working memory.
 
 2021
 ======
- Co-founded DiveFlash, a company specializing in underwater image processing and deep learning based fish identification from underwater images. The project is currently on hold due to academic pursuits. [Google PlayStore](https://play.google.com/store/apps/details?id=com.killerwhale.Diveflash), [Company Website](https://wearediveflash.github.io/)
+Co-founded DiveFlash, a company specializing in underwater image enhancement and deep learning fish identification model from underwater photography. The project is currently on hold due to academic pursuits. [Google PlayStore](https://play.google.com/store/apps/details?id=com.killerwhale.Diveflash) and [Company Website](https://wearediveflash.github.io/)
 
 2020
 ======
@@ -25,7 +25,7 @@ Engaged in contract-based work with plans to attend a graduate program post-COVI
 ======
 Served as a research assistant engineer at a defense company.
 
-I developed a combat simulator for the South Korean Navy's new AEGIS Destroyer-class battleship.
+I developed a combat simulator for the South Korean Navy's new AEGIS Destroyers-class battleship.
 
 2016-2017
 ======

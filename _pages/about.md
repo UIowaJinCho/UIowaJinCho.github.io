@@ -17,7 +17,7 @@ I'm an MCS(Master of Computer Science) student at the University of Iowa. I am c
 
 Skills
 ======
-I thrive in interdisciplinary projects, boasting a diverse skill set in **Image Processing**, advanced **Machine Learning, and Deep Learning with PyTorch**, complemented by exceptional **software development skills for Windows and mobile applications**. My extensive experience ensures a comprehensive and innovative approach to problem-solving across various domains.
+I thrive in interdisciplinary projects, boasting a diverse skill set in **(Medical/Underwater) Image Processing**, advanced **Machine Learning, and Deep Learning with PyTorch**, complemented by exceptional **software development skills for Windows and mobile applications**. My extensive experience ensures a comprehensive and innovative approach to problem-solving across various domains.
 
 
 Some Personal Stuff
@@ -29,13 +29,12 @@ I went through a five-year medical battle following my graduation from the Unive
 
 M.C.S. Research
 ======
-My current research interest lies at the intersection of healthcare and technology, focusing on utilizing machine learning for medical applications. Under the guidance of Professor Matthew Hoffman, I am investigating dysphagia detection from High-Resolution Manometry (HRM) images. The objective is to create a model capable of identifying and predicting dysphagia with enhanced accuracy and speed, aiming to improve patient diagnosis and treatment plans. Additionally, I am collaborating with Dr. Jeremy Greenlee and Dr. Christopher Petkov on cutting-edge neuroscience research, specifically focusing on working memory and learning in relation to voice and pitch. Our collective goal is to unravel the intricate neural mechanisms behind these processes, with the aim of contributing valuable insights to the field and ultimately enhancing cognitive and auditory health.
+My current research interest lies at the intersection of healthcare and technology, focusing on utilizing machine learning for medical applications. Under the guidance of Professor Matthew Hoffman, I am investigating dysphagia detection from High-Resolution Manometry (HRM) data. The objective is to create a model capable of identifying and predicting dysphagia with enhanced accuracy and speed, aiming to improve patient diagnosis and treatment plans. Additionally, I am collaborating with Dr. Jeremy Greenlee and Dr. Christopher Petkov on cutting-edge neuroscience research, specifically focusing on working memory and learning in relation to voice and pitch. Our collective goal is to unravel the intricate neural mechanisms behind these processes, with the aim of contributing valuable insights to the field and ultimately enhancing cognitive and auditory health.
 
 Personal Research Interests
 ======
 On the side, I like to fiddle with personally captured underwater images/videos from my scuba diving trips.
 
-<!-- ![Underwatervideo](http://UIowaJinCho.github.io/files/videos/Underwater.mp4) -->
 ![Underwatervideo](http://UIowaJinCho.github.io/images/underwater.gif)
 
 
@@ -47,7 +46,7 @@ Extracurricular activities
 When I have free time, I like to keep myself busy with new things.
 
 * Music:
-  * I used to be the drums for a punk rock band in high school.
+  * I played the drums in a punk rock band during high school.
 * Athletic activities:
   * Swimming 
   * Track Running 
