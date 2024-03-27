@@ -11,9 +11,11 @@ author_profile: true
 ======
 Research Assistant at the Gen Sci Lab in the Department of Otolaryngology at the University of Iowa Hospitals and Clinics. My focus is on early detection of Parkinson's Disease using pharyngeal High-Resolution Manometry data. Additionally, I collaborate with the Department of Neurosurgery on research projects related to learning and working memory.
 
+Additionally I have developed various research software tools for the Department of Neurosurgery(will be opensourced soon) and utilizing computer vision to aid for developing new treatment for cancer.
+
 2021
 ======
-Co-founded DiveFlash, a company specializing in underwater image enhancement and deep learning fish identification model from underwater photography. The project is currently on hold due to academic pursuits. [Google PlayStore](https://play.google.com/store/apps/details?id=com.killerwhale.Diveflash) and [Company Website](https://wearediveflash.github.io/)
+Co-founded DiveFlash, a company specializing in underwater image enhancement and deep learning fish identification model from underwater photography. <s>[Google PlayStore](https://play.google.com/store/apps/details?id=com.killerwhale.Diveflash)</s>(No longer maintained for academic persuits) and [Company Website](https://wearediveflash.github.io/)
 
 2020
 ======

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) from the University of Iowa Hospitals and Clinics(UIHC), department of Otolaryngology - Head and Neck Surgery and [Prof. Jeremy Greenlee](https://medicine.uiowa.edu/neurosurgery/profile/jeremy-greenlee), [Prof. Christopher Petkov](https://medicine.uiowa.edu/neurosurgery/profile/christopher-petkov) from the Department of Neurosurgery.
+I'm an MCS(Master of Computer Science) student at the University of Iowa. I am closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) from the University of Iowa Hospitals and Clinics(UIHC), Department of Otolaryngology - Head and Neck Surgery and [Prof. Jeremy Greenlee](https://medicine.uiowa.edu/neurosurgery/profile/jeremy-greenlee) from the Department of Neurosurgery.
 
 ![MachineLearning](http://UIowaJinCho.github.io/images/ml.jpg)
 
