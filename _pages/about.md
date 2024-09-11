@@ -15,4 +15,5 @@ Personal Interests
 On the side, I like to fiddle with personally captured underwater images/videos from my scuba diving trips.
 
 ![Underwatervideo](http://UIowaJinCho.github.io/images/underwater.gif)
+
 ![Bubbles](http://UIowaJinCho.github.io/images/bubbles.gif)
