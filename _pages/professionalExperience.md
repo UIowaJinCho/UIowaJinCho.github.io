@@ -6,12 +6,13 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-2022 - Present
+Present
 ======
-Research Assistant at the Gen Sci Lab in the Department of Otolaryngology at the University of Iowa Hospitals and Clinics. My focus is on early detection of Parkinson's Disease using pharyngeal High-Resolution Manometry data. Additionally, I collaborate with the Department of Neurosurgery on research projects related to learning and working memory.
+PhD student at the Department of Computer Science, Graduate Research Assistant for the Department of Neurosurgery (between semesters).
 
-Additionally I have developed various research software tools for the Department of Neurosurgery(will be opensourced soon) and utilizing computer vision to aid for developing new treatment for cancer.
+2022 - 2024
+======
+Graduate Research Assistant for the Departent of Neurosurgery & Otolaryngology.
 
 2021
 ======

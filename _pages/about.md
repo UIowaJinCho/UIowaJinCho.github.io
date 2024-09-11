@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Computer Science PhD student at the University of Iowa. I am advised by [Prof. Rahul Singh](https://cs.uiowa.edu/people/rahul-singh). I am also closely working with [Prof. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) from the Department of Otolaryngology and [Prof. Jeremy Greenlee](https://medicine.uiowa.edu/neurosurgery/profile/jeremy-greenlee) from the Department of Neurosurgery.
+I'm a Computer Science PhD student at the University of Iowa. I am advised by [Dr. Rahul Singh](https://cs.uiowa.edu/people/rahul-singh). I am also closely working with [Dr. Matthew Hoffman](https://uihc.org/providers/matthew-hoffman) from the Department of Otolaryngology and [Dr. Jeremy Greenlee](https://medicine.uiowa.edu/neurosurgery/profile/jeremy-greenlee) from the Department of Neurosurgery.
+
+Research Interests
+======
+Will be updated shortly.
 
 Personal Interests
 ======
