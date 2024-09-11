@@ -83,8 +83,8 @@ author:
   name             : "Hyunjin Cho"
   avatar           : "profile_pic.jpg"
   bio              : "PhD student in Computer Science at the University of Iowa"
-  location         : "Iowa City, IA"
-  employer         : "University of Iowa Health Care"
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "hyunjin-cho@uiowa.edu"
