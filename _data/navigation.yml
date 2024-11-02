@@ -6,8 +6,13 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Awards"
-  #   url: /awards/    
+
+  - title: "Software"
+    url: /software/    
+
+
+  - title: "Awards"
+    url: /awards/    
 
   - title: "Professional Experience"
     url: /professionalExperience/    
