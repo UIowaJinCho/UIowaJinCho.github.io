@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-**Last Updated: Nov 2nd 2024**
+**Last Updated: Nov. 2, 2024**
 
 Your privacy is critically important to us. This Privacy Policy outlines how The University of Iowa ("we," "our," or "us") collects, uses, and safeguards the information you provide while using the UIowa Remote Voice Survey app ("the App"). By using the App, you agree to the terms described in this policy.
 
