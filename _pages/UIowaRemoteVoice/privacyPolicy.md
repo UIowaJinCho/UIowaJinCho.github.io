@@ -15,7 +15,7 @@ Your privacy is critically important to us. This Privacy Policy outlines how The
 ## 1. Information We Collect
 
 ### a. Personal Information
-- **Username**: We generate and use a unique identifier (e.g., subject0001) to maintain your anonymity. No personally identifiable information, such as your name or contact details, is collected through the App.
+- **Username**: We generate and use a unique identifier (e.g., exampleLoginCredential0001) to maintain your anonymity. No personally identifiable information, such as your name or contact details, is collected through the App.
 
 ### b. Survey Responses
 - Your responses to fixed medical questionnaires (e.g., SDS, PHQ9, UCLA) are collected to support research analysis.
