@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+
 Present
 ======
 PhD student at the Department of Computer Science, Graduate Research Assistant for the Department of Neurosurgery (between semesters).

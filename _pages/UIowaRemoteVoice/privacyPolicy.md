@@ -1,9 +1,11 @@
 ---
 layout: archive
 title: "UIowa Remote Voice Privacy Policy"
-permalink: /software/privacyPolicy
+permalink: /software/UIowaRemoteVoice/privacyPolicy
 author_profile: true
 ---
+
+
 
 # Privacy Policy for UIowa Remote Voice Survey
 
