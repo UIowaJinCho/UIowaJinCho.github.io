@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-======
-UIowa Remote Voice Survey is an innovative voice recording and survey application designed to support medical research at the University of Iowa. This app allows you to contribute valuable data from the comfort of your home, making it convenient for both patients and volunteers.
+
+UIowa Remote Voice Survey is a voice recording and survey application designed to support medical research at the University of Iowa. This app allows you to contribute valuable data from the comfort of your home, making it convenient for both patients and volunteers.
 
 * How It Works:
     * Complete short medical questionnaires that have been specially coded for research purposes.
