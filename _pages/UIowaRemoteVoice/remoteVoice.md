@@ -18,6 +18,5 @@ UIowa Remote Voice Survey is a voice recording and survey application designed t
     * User-Friendly Interface: Simplified navigation and clear instructions make the process smooth and straightforward.
     * High-Quality Audio Recording: Record your voice tasks with precision from home.
     * Confidential and Secure: Your data is anonymized and securely stored, ensuring your privacy is protected at all times.
-    * Notifications & Reminders: Receive reminders to complete your tasks at your convenience.
 
 You can read our privacy policy [here](https://uiowajincho.github.io/software/UIowaRemoteVoice/privacyPolicy/)
