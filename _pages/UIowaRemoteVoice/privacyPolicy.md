@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 
-**Last Updated: Nov. 2, 2024**
+**Last Updated: Nov. 13, 2024**
 
-Your privacy is critically important to us. This Privacy Policy outlines how The University of Iowa ("we," "our," or "us") collects, uses, and safeguards the information you provide while using the UIowa Remote Voice Survey app ("the App"). By using the App, you agree to the terms described in this policy.
+Your privacy is critically important to us. This Privacy Policy outlines how The University of Iowa Hoffman Lab ("we," "our," or "us") collects, uses, and safeguards the information you provide while using the UIowa Remote Voice Survey app ("the App"). By using the App, you agree to the terms described in this policy.
 
 ---
 
 ## 1. Information We Collect
 
 ### a. Personal Information
-- **Username**: We generate and use a unique identifier (e.g., exampleLoginCredential0001) to maintain your anonymity. No personally identifiable information, such as your name or contact details, is collected through the App.
+- **Username**: We generate and use a unique identifier (e.g., ExampleLoginCredential0001) to maintain your anonymity. No personally identifiable information, such as your name or contact details, is collected through the App.
 
 ### b. Survey Responses
 - Your responses to fixed medical questionnaires (e.g., SDS, PHQ9, UCLA) are collected to support research analysis.
