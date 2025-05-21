@@ -13,7 +13,7 @@ UIowa Remote Voice Survey is a voice recording and survey application designed t
 
 GVPT
 ======
-The Guided Visual Pitch Tracking (GVPT) is a Windows Presentation Foundation (WPF) application developed in C# to support voice task experiments in behavioral science, with a focus on precise real-time pitch detection and visual pitch target tracking. You can access it [here](https://dupont.cs.uiowa.edu/software/brain/glvpt/glvpt.html)
+The Guided Visual Pitch Tracking (GVPT) is a Windows Presentation Foundation (WPF) application developed in C# to support voice task experiments in behavioral science, with a focus on precise real-time pitch detection and visual pitch target tracking. You can access it [here](https://dupont.cs.uiowa.edu/software/brain/gvpt/gvpt.html)
 
 APT
 ======
