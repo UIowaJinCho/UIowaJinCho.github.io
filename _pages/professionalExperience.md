@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 Current
 ======
-Graduate Study at the University of Iowa
+Graduate student at the University of Iowa
 
 2021
 ======
