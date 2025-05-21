@@ -6,14 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-2024 Fall - Present
+Current
 ======
-PhD student at the Department of Computer Science, Graduate Research Assistant for the Department of Neurosurgery (between semesters).
-
-2022 - 2024
-======
-Graduate Research Assistant for the Departent of Neurosurgery & Otolaryngology.
+Graduate Study at the University of Iowa
 
 2021
 ======
