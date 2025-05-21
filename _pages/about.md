@@ -10,9 +10,9 @@ redirect_from:
 
 I'm a Computer Science PhD student at the University of Iowa. I am advised by [Dr. Rahul Singh](https://cs.uiowa.edu/people/rahul-singh). I am also closely working with [Dr. Matthew Hoffman](https://medicine.uiowa.edu/oto/profile/matthew-r-hoffman) from the Department of Otolaryngology and [Dr. Jeremy Greenlee](https://medicine.uiowa.edu/neurosurgery/profile/jeremy-greenlee) from the Department of Neurosurgery.
 
-Research Interests
+Research Foci
 ======
-Will be updated shortly.
+My research interests lie at the intersection of computer science and biomedicine, with a particular focus on computational topology. I aim to develop novel methods that can be applied to cancer drug discovery and the analysis of brain connectivity during voice pitch control. To advance this work, I have developed a suite of software tools designed to collect and analyze relevant biomedical data.
 
 Personal Interests
 ======
