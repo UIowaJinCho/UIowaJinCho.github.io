@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Posters"
 permalink: /posters/
 author_profile: true
 ---
