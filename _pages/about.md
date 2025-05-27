@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hyunjin(Jin) Cho"
+title: "About Hyunjin(Jin) Cho"
 excerpt: "About Hyunjin Cho"
 author_profile: true
 redirect_from: 
