@@ -12,7 +12,7 @@ I'm a Computer Science PhD student at the University of Iowa. I am advised by [D
 
 Research Foci
 ======
-My research interests lie at the intersection of computer science and biomedicine, with a particular focus on computational topology and brain connectivity. I aim to develop novel methods that can be applied to cancer drug discovery and the analysis of brain connectivity during voice pitch control. To advance this work, I have developed a suite of software tools designed to collect and analyze relevant biomedical data.
+My research interests lie at the intersection of computer science and biomedicine, with a particular focus on computer vision, computational topology and brain connectivity. I aim to develop novel methods that can be applied to cancer drug discovery, and the analysis of brain connectivity during voice pitch control. To advance this work, I have developed a suite of software tools designed to collect and analyze relevant biomedical data including (but not limited to) ECoG, fMRI and Bright-field microscopy images of organoids and parasites.
 
 Personal Interests
 ======
