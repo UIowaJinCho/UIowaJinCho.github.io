@@ -8,11 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Science PhD student at the University of Iowa. I am advised by [Dr. Rahul Singh](https://cs.uiowa.edu/people/rahul-singh) as a member of the [Biocomputing Research Lab](https://tintin.cs.uiowa.edu/). I am also closely working with [Dr. Matthew Hoffman](https://medicine.uiowa.edu/oto/profile/matthew-r-hoffman) from the Department of Otolaryngology and [Dr. Jeremy Greenlee](https://medicine.uiowa.edu/neurosurgery/profile/jeremy-greenlee) from the Department of Neurosurgery.
+I'm a Computer Science PhD student at the University of Iowa, advised by [Dr. Rahul Singh](https://cs.uiowa.edu/people/rahul-singh) and a member of the [Biocomputing Research Lab](https://tintin.cs.uiowa.edu/).
 
 Research Foci
 ======
-My research interests lie at the intersection of computer science and biomedicine, with a particular focus on computer vision, computational topology and brain connectivity. I aim to develop novel methods that can be applied to cancer drug discovery, and the analysis of brain connectivity during voice pitch control. To advance this work, I have developed a suite of software tools designed to collect and analyze relevant biomedical data including (but not limited to) ECoG, fMRI and Bright-field microscopy images of organoids and parasites.
+My work lies at the intersection of computer science and biomedicine, with emphasis on computer vision, computational topology, and research software systems.
+
+I develop topological frameworks for analyzing structure in high-dimensional data, with applications to:
+
+- multivariate time series (e.g., ECoG,  High-Resolution Manometry)
+- biomedical imaging (e.g., bright-field microscopy, fMRI)
+
+I work across the full research pipeline, from developing software systems for data acquisition to preprocessing and analysis, enabling reproducible and scalable experimental workflows.
+
+Collaborators
+======
+In addition to my PhD research, I collaborate with:
+- University of Iowa Health Care
+  - Department of Otolaryngology
+  - Department of Neurosurgery (in collaboration with Boston University)
+- University of Wisconsin-Madison
+  - Department of Otolaryngology
+- University of Manitoba
+  - Department of Human Anatomy & Cell Science
+
 
 Personal Interests
 ======

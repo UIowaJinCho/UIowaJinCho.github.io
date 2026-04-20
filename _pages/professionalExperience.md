@@ -6,9 +6,17 @@ author_profile: true
 ---
 
 {% include base_path %}
-Current
+2026 -
 ======
-Graduate student at the University of Iowa
+Founder of Rad Science, a research engineering initiative focused on end-to-end biomedical research development.
+
+Scope includes:
+- rapid prototyping of experimental software systems
+- data analysis using machine learning and transformer-based models
+- topological data analysis (TDA) for complex biomedical signals
+
+Positioned to bridge the gap between computational methods and applied research execution.
+(Website under construction)
 
 2021
 ======

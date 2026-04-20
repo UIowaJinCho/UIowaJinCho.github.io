@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hyunjin Cho"
   avatar           : "profile.jpg"
-  bio              : "PhD student in Computer Science at the University of Iowa"
-  location         : 
+  bio              : "Founder of Rad Science,\nPhD student in Computer Science at the University of Iowa"
+  location         : "Seoul, South Korea"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Fn48KrIAAAAJ&hl=ko&oi=sra"
@@ -102,8 +102,8 @@ author:
   instagram        : 
   impactstory      : 
   lastfm           :
-  linkedin         : 
-  orcid            : #"https://orcid.org/0009-0003-2590-6490"
+  linkedin         : "https://www.linkedin.com/in/ipdiss/"
+  orcid            : "https://orcid.org/0009-0003-2590-6490"
   pinterest        :
   soundcloud       :
   stackoverflow    :
