@@ -16,6 +16,7 @@ Scope includes:
 - topological data analysis (TDA) for complex biomedical signals
 
 We aim to bridge the gap between computational methods and applied research execution.
+
 (Website under construction)
 
 2021
@@ -30,11 +31,15 @@ Engaged in contract-based work with plans to attend a graduate program post-COVI
 
 2018
 ======
-Served as a research assistant engineer at a defense company.
+Served as a research assistant engineer at a South Korean defense company.
 
 I developed a combat simulator for the South Korean Navy's new AEGIS Destroyers-class battleship.
 
-2016-2017
+2017
+======
+Corporal, ROKA(Republic of Korea Army)
+
+2016
 ======
 Teaching Assistant for CS1030 - Foundations of Computer Science, CS1410 - Introduction to Objected Oriented Programming, CS2100 - Discrete Structures for [Prof. Elaine Cohen](https://users.cs.utah.edu/~cohen/), [Prof. David Johnson](https://users.cs.utah.edu/~dejohnso/) and [Prof. Erin Parker](https://users.cs.utah.edu/~parker/).
 
