@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Science PhD student at the University of Iowa, advised by [Dr. Rahul Singh](https://cs.uiowa.edu/people/rahul-singh). [Biocomputing Research Lab](https://tintin.cs.uiowa.edu/).
+I'm a Computer Science PhD student at the University of Iowa, advised by [Dr. Rahul Singh](https://cs.uiowa.edu/people/rahul-singh).
 
 
 Research Foci
 ======
-My work lies at the intersection of computer science and biomedicine, with emphasis on computer vision, computational topology, and research software systems.
+I am trying to solve biomedical problems usign computer science, with emphasis on computer vision, computational topology, and research software tools.
 I develop topological frameworks for analyzing structure in high-dimensional data, with applications to:
 - multivariate time series (e.g., ECoG,  High-Resolution Manometry)
 - biomedical imaging (e.g., bright-field microscopy, fMRI)
