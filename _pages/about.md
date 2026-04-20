@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Computer Science PhD student at the University of Iowa, advised by [Dr. Rahul Singh](https://cs.uiowa.edu/people/rahul-singh) and a member of the [Biocomputing Research Lab](https://tintin.cs.uiowa.edu/).
 
-<br>
+<br><br>
 
 Research Foci
 ======
@@ -23,7 +23,7 @@ I develop topological frameworks for analyzing structure in high-dimensional dat
 
 I work across the full research pipeline, from developing software systems for data acquisition to preprocessing and analysis, enabling reproducible and scalable experimental workflows.
 
-<br>
+<br><br>
 
 Collaborators
 ======
@@ -36,7 +36,7 @@ In addition to my PhD research, I collaborate with:
 - University of Manitoba
   - Department of Human Anatomy & Cell Science
 
-<br>
+<br><br>
 
 Personal Interests
 ======

@@ -25,21 +25,15 @@ Designed to support deep learning pipelines for cancer organoid analysis at the 
 UIowa Remote Voice
 ------
 A remote data collection platform for voice and survey-based medical studies.
-Enables participants to contribute high-quality recordings and metadata outside clinical settings, improving accessibility and scalability of research.
-
-[Link](https://dupont.cs.uiowa.edu/software/otolaryngology/remotevoice/remotevoice.html)
+Enables participants to contribute high-quality recordings and metadata outside clinical settings, improving accessibility and scalability of research. [Link](https://dupont.cs.uiowa.edu/software/otolaryngology/remotevoice/remotevoice.html)
 
 
 GVPT
 ------
 A real-time experimental platform for visual pitch tracking.
-Implements precise pitch detection with dynamic visual targets to support controlled behavioral and speech experiments.
-
-[Link](https://dupont.cs.uiowa.edu/software/brain/gvpt/gvpt.html)
+Implements precise pitch detection with dynamic visual targets to support controlled behavioral and speech experiments. [Link](https://dupont.cs.uiowa.edu/software/brain/gvpt/gvpt.html)
 
 APT
 ------
 A real-time auditory feedback system for pitch-based experiments.
-Provides accurate pitch detection with auditory target guidance for controlled behavioral studies.
-
-[Link](https://dupont.cs.uiowa.edu/software/brain/apt/apt.html)
+Provides accurate pitch detection with auditory target guidance for controlled behavioral studies. [Link](https://dupont.cs.uiowa.edu/software/brain/apt/apt.html)
