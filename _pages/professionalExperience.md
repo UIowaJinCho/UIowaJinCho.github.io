@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-2026 -
+2026 —
 ======
 Founder of Rad Science, a research engineering initiative focused on end-to-end biomedical research development.
 
