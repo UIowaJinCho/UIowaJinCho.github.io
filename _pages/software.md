@@ -27,7 +27,7 @@ UIowa Remote Voice
 A remote data collection platform for voice and survey-based medical studies.
 Enables participants to contribute high-quality recordings and metadata outside clinical settings, improving accessibility and scalability of research.
 
-[More information](https://dupont.cs.uiowa.edu/software/otolaryngology/remotevoice/remotevoice.html)
+[Link](https://dupont.cs.uiowa.edu/software/otolaryngology/remotevoice/remotevoice.html)
 
 
 GVPT
@@ -35,11 +35,11 @@ GVPT
 A real-time experimental platform for visual pitch tracking.
 Implements precise pitch detection with dynamic visual targets to support controlled behavioral and speech experiments.
 
-[Access](https://dupont.cs.uiowa.edu/software/brain/gvpt/gvpt.html)
+[Link](https://dupont.cs.uiowa.edu/software/brain/gvpt/gvpt.html)
 
 APT
 ------
 A real-time auditory feedback system for pitch-based experiments.
 Provides accurate pitch detection with auditory target guidance for controlled behavioral studies.
 
-[Access](https://dupont.cs.uiowa.edu/software/brain/apt/apt.html)
+[Link](https://dupont.cs.uiowa.edu/software/brain/apt/apt.html)
